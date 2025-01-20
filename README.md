@@ -58,6 +58,3 @@ Toda la documentación del proyecto fue hecha con la libreria SpringDoc, para ac
 
 ![forohub_api](https://github.com/user-attachments/assets/ba0733ea-4791-4c9c-b7c6-826cfc0d7c3c)
 
-
-
-Luca Perez 2024
